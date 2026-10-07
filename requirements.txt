@@ -1,0 +1,41 @@
+# Core
+python-dotenv
+pydantic
+requests
+httpx
+
+# LangGraph / LangChain
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-anthropic
+
+# LlamaIndex
+llama-index
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-readers-file
+llama-index-llms-anthropic
+
+# Embeddings / Vector Search
+sentence-transformers
+chromadb
+
+# Google ADK / A2A
+google-adk
+a2a-sdk
+
+# CrewAI
+crewai
+
+# Streamlit
+streamlit
+
+# Database
+sqlalchemy
+
+# Utilities
+pandas
+numpy
+truststore
